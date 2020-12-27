@@ -1,4 +1,4 @@
-# Deep-fakes-
+# Deep Fakes Detection
 This is a project on Deep Fakes Detection for STAT696 at AU. This is my initial and first attempt with respect to performing deep fakes. Your comments and suggestions are welcome.
 
 Feel free to use the following link for accessing to data repository. 
